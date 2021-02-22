@@ -10,3 +10,5 @@ Collect Efficient Tool.
 - everything
 # 4. 文本搜索
 - AnyTxt
+# 5. 不限速下载
+https://www.lanzou.com/
