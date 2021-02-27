@@ -12,3 +12,5 @@ Collect Efficient Tool.
 - AnyTxt
 # 5. 不限速下载
 https://www.lanzou.com/
+# 6. 翻译软件
+- DeepL
