@@ -14,3 +14,4 @@ Collect Efficient Tool.
 https://www.lanzou.com/
 # 6. 翻译软件
 - DeepL
+# 7. 中文 notion：wolai
