@@ -18,3 +18,5 @@ Collect Efficient Tool.
 - DeepL
 # 7. 笔记
 - https://www.notion.so/
+# 8. 音频截取
+- ffmpeg
