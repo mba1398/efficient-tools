@@ -24,3 +24,5 @@ Share Efficient Tools.
 - 首先用 `剪映专业版` 获取智能字幕
 - 用小工具将剪映生成的 `draft_content.json` 转换为 `.srt` 文件，`srt` 文件名称和视频名称一致时，播放可以显示字幕。
   小工具下载地址链接：https://pan.baidu.com/s/1tBB-Ls4dHHVAGkVp7LcfJw  提取码：iwik
+# 10. windows系统查看文件夹及文件大小的软件
+- TreeSize Free
