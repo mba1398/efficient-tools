@@ -24,6 +24,7 @@ Share Efficient Tools.
 
 # 7. 笔记
 - https://www.notion.so/
+- https://flomoapp.com/ flomo浮墨笔记
 
 # 8. 视频/音频剪切、合并、转码、调整播放速度 -- 非常强大
 - ffmpeg 免费工具，使用方法参考：https://fzheng.me/2016/01/08/ffmpeg/
