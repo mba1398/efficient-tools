@@ -35,7 +35,7 @@ Share Efficient Tools.
 
   小工具下载地址链接：https://pan.baidu.com/s/1tBB-Ls4dHHVAGkVp7LcfJw  提取码：iwik。（剪映升级了，小工具不能用了。。。）
   
-# 10. 系统查看文件夹及文件大小的软件
+# 10. 系统查看文件夹及文件大小的软件（ OS size check.）
 
 ## windows
 - TreeSize Free
@@ -46,3 +46,7 @@ Share Efficient Tools.
 
 ## Linux
 - KDirStat
+
+# 11. PDF 文件格式转换（ pdf convert to other format.）
+- https://pdf2doc.com/
+
