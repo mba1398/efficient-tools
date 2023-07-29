@@ -50,3 +50,20 @@ Share Efficient Tools.
 # 11. PDF 文件格式转换（ pdf convert to other format.）
 - https://pdf2doc.com/
 
+# 12. 批量重命名工具（multi files rename tool）
+- https://www.antp.be/software/renamer/download
+
+# 13. 查找重复文件工具（find duplicate files tool）
+- https://dupeguru.voltaicideas.net/
+
+
+
+
+
+
+
+
+
+
+
+
